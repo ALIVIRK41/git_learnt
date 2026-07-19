@@ -1,1 +1,5 @@
-ls mkdir cp mv rm
+ls
+mkdir
+cp
+mv
+rm
